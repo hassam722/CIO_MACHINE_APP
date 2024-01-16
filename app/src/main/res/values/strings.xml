@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CIO</string>
+    <string name="change_pass">Change Password</string>
+    <string name="change_wifi">Change Wifi</string>
+    <string name="add_user">Add User</string>
+    <string name="connect">Connect</string>
+    <string name="tp_link">Tp-link</string>
+    <string name="pass">Password</string>
+    <string name="repass">Re Password</string>
+    <string name="add_user_note">To add user please place your card on the machine.</string>
+    <string name="submit">Submit</string>
+    <string name="connx_error">Connection Failed</string>
+    <string name="ini_connx_error">you are not connected with CIO Machine\'s hotspot.</string>
+    <string name="pass_len_note">Password must reside between 8 to 63 characters</string>
+    <string name="change_api">Change URI</string>
+    <string name="uri_note">URI shown on output of run.py e.g. ip:port</string>
+    <string name="wrong_format">Wrong Format</string>
+
+</resources>
